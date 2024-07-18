@@ -8,7 +8,7 @@ I'm dedicated to developing practical, high-quality solutions in AI using .NET a
 
 ### Key Skills
 - **Software Development**: C#, .NET, Docker.
-- **Architecture**: TDD practiciones SOLID Principles, Clean Code, CQRS, DDD, ATD, EDA
+- **Architecture**: SOLID Principles, Clean Code, TDD practiciones, ATDD, Clean architecture, CQRS, DDD, EDA
 - **Cloud and DevOps**: AWS Certified Solutions Architect - Associate
 
 ### Recognitions

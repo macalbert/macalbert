@@ -16,18 +16,21 @@ Here are some ideas to get you started:
 -->
 
 🔧 **Principal Engineer at M47 Labs**  
-💻 **Focused on AI projects, .NET, and AWS**
-🛠 Trying to become a software craftsman
+💻 **Specializing in AI projects, .NET, and AWS**  
+🛠 **Committed to mastering software craftsmanship**
 
-As an enthusiastic professional in software engineering, I am committed to developing high-performance, scalable software solutions, with a special focus on .net and AWS. My approach is rooted in fostering collaboration and aligning software development closely with business goals to ensure maximum value to users. I am always engaged with the latest technologies, driving innovation and knowledge sharing.
+I am a passionate software engineer dedicated to creating high-performance, scalable solutions that drive real business impact. With deep expertise in .NET and AWS, I focus on delivering robust and maintainable architectures while aligning development with business goals. I’m a strong believer in clean, modular code and advocate for best practices like TDD and SOLID principles to ensure quality and innovation in every project.
 
-### Interested topics
-- **My Stack**: .Net (CSharp), Docker, Github Actions, AWS CDK @ typescript, node.js.
-- **Good practices**: Clean Code, SOLID Principles, TDD / ATDD (BDD).
-- **Software architecture**: Clean architecture, Hexagonal, Vertical Slicing, Screaming Architecture, DDD, CQRS, EDA, modular monolith > microservices
-- **AWS**: Certified Solutions Architect - Associate 
+### What I Work With
+- **My Stack**: .NET (CSharp), Docker, GitHub Actions, AWS CDK, TypeScript, Node.js.
+- **Best Practices**: Clean Code, SOLID, TDD/ATDD (BDD).
+- **Software Architecture**: Clean Architecture, Hexagonal, Vertical Slicing, Screaming Architecture, DDD, CQRS, EDA, modular monolith to microservices.
+- **Cloud**: Certified AWS Solutions Architect - Associate.
 
-I'm always interested in new opportunities and collaborations, I enjoy working in multidisciplinary teams and learning from other developers :)
+### How I Work
+I thrive in multidisciplinary teams, constantly learning and sharing knowledge. Whether building AI solutions or optimizing architectures, I aim to bridge the gap between cutting-edge technology and practical business needs.
+
+I’m always open to new challenges and collaborations. Let’s create something amazing together!
 
 ## 𝗦𝘁𝗮𝘁𝘀
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macalbert&theme=dark" alt="macalbert" /></p>

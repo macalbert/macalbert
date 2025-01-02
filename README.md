@@ -19,13 +19,7 @@ Here are some ideas to get you started:
 💻 **Specializing in AI projects, .NET, and AWS**  
 🛠 **Committed to mastering software craftsmanship**
 
-I am a passionate software engineer dedicated to creating high-performance, scalable solutions that drive real business impact. With deep expertise in .NET and AWS, I focus on delivering robust and maintainable architectures while aligning development with business goals. I’m a strong believer in clean, modular code and advocate for best practices like TDD and SOLID principles to ensure quality and innovation in every project.
-
-### What I Work With
-- **My Stack**: .NET (CSharp), Docker, GitHub Actions, AWS CDK, TypeScript, Node.js.
-- **Best Practices**: Clean Code, SOLID, TDD/ATDD (BDD).
-- **Software Architecture**: Clean Architecture, Hexagonal, Vertical Slicing, Screaming Architecture, DDD, CQRS, EDA, modular monolith to microservices.
-- **Cloud**: Certified AWS Solutions Architect - Associate.
+I am a passionate software engineer dedicated to creating high-performance, scalable solutions that drive real business impact. With deep expertise in .NET and AWS, I focus on delivering robust and maintainable architectures while aligning development with business goals. I’m a strong believer in clean, modular code and advocate for best practices to ensure quality and innovation in every project.
 
 ### How I Work
 I thrive in multidisciplinary teams, constantly learning and sharing knowledge. Whether building AI solutions or optimizing architectures, I aim to bridge the gap between cutting-edge technology and practical business needs.

@@ -25,6 +25,3 @@ I am a passionate software engineer dedicated to creating high-performance, scal
 I thrive in multidisciplinary teams, constantly learning and sharing knowledge. Whether building AI solutions or optimizing architectures, I aim to bridge the gap between cutting-edge technology and practical business needs.
 
 I’m always open to new challenges and collaborations. Let’s create something amazing together!
-
-## 𝗦𝘁𝗮𝘁𝘀
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macalbert&theme=dark" alt="macalbert" /></p>
